@@ -31,9 +31,12 @@
         <div class="section">
           <h2 class="h2">About</h2>
           <p class="text">
-            I am currently in the third year of my PhD program, and my dissertation has passed both the proposal defense
-            and the mid-term review.<br />
-            Recently, I have been particularly interested in the development of China’s silver economy.
+            I am currently in the third year of my PhD program, and my dissertation has passed
+            both the proposal defense and the mid-term review. My research aims to identify ways of
+            improving community environments to promote healthy ageing.<br />
+            Recently, I have been thinking about how to harness the rising consumption power of
+            ageing society through policy and regulation to advance the silver economy and generate
+            lessons with international relevance.
           </p>
         </div>
 
