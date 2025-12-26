@@ -149,7 +149,7 @@ const published = [
   },
   {
     citation:
-      'Hu, Zhan, & Luo, Xiaoman. (2025, March 4). Integrating family and community to explore new practices of Chinese-style eldercare. 环球时报.',
+      'Hu, Zhan, & Luo, Xiaoman. (March 4, 2025). Integrating family and community to explore new practices of Chinese-style eldercare. 环球时报.',
     file: '/Published papers/2 环球时报.pdf',
   },
   {
@@ -169,7 +169,7 @@ const published = [
   },
   {
     citation:
-      'Hu, Zhan, & Luo, Xiaoman. (2023, October 26). Promoting age-friendly development by balancing “soft” and “hard” measures. 中国人口报.',
+      'Hu, Zhan, & Luo, Xiaoman. (October 26, 2023). Promoting age-friendly development by balancing “soft” and “hard” measures. 中国人口报.',
     file: '/Published papers/6 中国人口报.pdf',
   },
   {
@@ -202,12 +202,7 @@ const working = [
   },
   {
     citation:
-      '“Aging Development Blue Book: Research on Integrating Medical Care with Elderly Care and Wellness” (ed. Qiao Xuebin), Author of Chapter 4.',
-    file: null,
-  },
-  {
-    citation:
-      '“Prominent Issues in Elderly Services and Policy Recommendations” (with Zhan Hu, etc.), Internal publication of the Development Research Center of the Shanghai Municipal People’s Government, Mar. 2024.',
+      '“Prominent Issues in Elderly Services and Policy Recommendations” (with Zhan Hu, etc.), Internal publication of the Development Research Center of the Shanghai Municipal People’s Government, March 2024.',
     file: null,
   },
 ]
@@ -215,22 +210,22 @@ const working = [
 const conference = [
   {
     citation:
-      'Luo, Xiaoman. (2025, October). Theoretical reflections and governance possibilities of community “Shilao”: A Gemeinschaft perspective. IARU-ALH Annual Conference: Digital Transformation and Aging Welfare.',
+      'Luo, Xiaoman. (October, 2025). Theoretical reflections and governance possibilities of community “Shilao”: A Gemeinschaft perspective. IARU-ALH Annual Conference: Digital Transformation and Aging Welfare.',
     file: null,
   },
   {
     citation:
-      'Luo, Xiaoman. (2025, July). Accessibility of public sports facilities and age-friendly spatial planning in Shanghai from an active healthy aging perspective. Population Association of China Annual Meeting 2025.',
+      'Luo, Xiaoman. (July, 2025). Accessibility of public sports facilities and age-friendly spatial planning in Shanghai from an active healthy aging perspective. Population Association of China Annual Meeting 2025.',
     file: null,
   },
   {
     citation:
-      'Luo, Xiaoman. (2024, July). A computational analysis of Weibo texts on Generation Z’s attitudes toward marriage and childbearing. Population Association of China Annual Meeting 2024.',
+      'Luo, Xiaoman. (July, 2024). A computational analysis of Weibo texts on Generation Z’s attitudes toward marriage and childbearing. Population Association of China Annual Meeting 2024.',
     file: null,
   },
   {
     citation:
-      'Luo, Xiaoman. (2023, September). Evaluation of the quality of home- and community-based eldercare service provision based on the fuzzy comprehensive evaluation method. The 10th China Gerontology Graduate Student Forum.',
+      'Luo, Xiaoman. (September, 2023). Evaluation of the quality of home- and community-based eldercare service provision based on the fuzzy comprehensive evaluation method. The 10th China Gerontology Graduate Student Forum.',
     file: null,
   },
 ]
