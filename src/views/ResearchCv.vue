@@ -143,7 +143,7 @@ function openFile(path) {
 const published = [
   {
     citation:
-      'Hu, Zhan, Chen, Qian, & Luo, Xiaoman. (2025). Activating silver economy consumption potential to alleviate mismatches between market supply and demand. 中国社会科学 (内部文稿), (5), 99–105.',
+      'Hu, Zhan, Chen, Qian, & Luo, Xiaoman. (2025). Activating silver economy potential to alleviate mismatches between market supply and demand. 中国社会科学 (内部文稿), (5), 99–105.',
     // 你没提供对应 PDF 文件名，所以先留空（按钮显示 No File）
     file: null,
   },
@@ -233,7 +233,7 @@ const conference = [
 const progress = [
   {
     citation:
-      'Hu, Zhan, & Luo, Xiaoman*. Theoretical reflections on age-friendly communities and their governance possibilities: A community perspective. 武汉大学学报 (哲学社会科学版). In press, scheduled for 2026, Issue 01.',
+      'Hu, Zhan, & Luo, Xiaoman*. Theoretical reflections on age-friendly communities and their governance possibilities: A Gemeinschaft perspective. 武汉大学学报 (哲学社会科学版). In press, scheduled for 2026, Issue 01.',
     file: null,
   },
   {
